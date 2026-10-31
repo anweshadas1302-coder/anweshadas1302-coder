@@ -71,16 +71,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anweshadas1302-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anweshadas1302-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://img.shields.io/github/followers/anweshadas1302-coder?label=Followers&style=for-the-badge&logo=github&color=F7931E&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Public%20Repos-12-F7931E?style=for-the-badge&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/anweshadas1302-coder/blockcode?label=blockcode%20Stars&style=for-the-badge&logo=github&color=F7931E&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anweshadas1302-coder&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=anweshadas1302-coder&theme=tokyonight&hide_border=true&ring=F7931E&fire=F7931E&currStreakLabel=F7931E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anweshadas1302-coder&theme=tokyo-night&hide_border=true&area=true" />
+  <b>🟧 My Contribution Graph</b><br/>
+  <img src="https://ghchart.rshah.org/F7931E/anweshadas1302-coder" width="85%" />
 </p>
 
 ---
