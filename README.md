@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-**🗄️ Databases** *(edit to match what you actually use)*<br/>
+**🗄️ Databases** <br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 **🧰 Tools**<br/>
@@ -68,21 +68,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ About Me, in Code
+
+```dart
+class Anwesha {
+  final role     = 'CS Student & Flutter Developer';
+  final loves    = ['Flutter', 'Clean UI', 'Solving tricky problems'];
+  final learning = ['Node.js', 'REST APIs', 'DSA'];
+  final funFact  = 'I built my own expression parser & interpreter 🤯';
+
+  String motto() => 'Code. Learn. Repeat.';
+}
+```
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/anweshadas1302-coder?label=Followers&style=for-the-badge&logo=github&color=F7931E&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Public%20Repos-12-F7931E?style=for-the-badge&logo=github&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/anweshadas1302-coder/blockcode?label=blockcode%20Stars&style=for-the-badge&logo=github&color=F7931E&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-F7931E?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Ask%20me%20about-Flutter%20%26%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Currently%20learning-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anweshadas1302-coder&theme=tokyonight&hide_border=true&ring=F7931E&fire=F7931E&currStreakLabel=F7931E" />
-</p>
-
-<p align="center">
-  <b>🟧 My Contribution Graph</b><br/>
-  <img src="https://ghchart.rshah.org/F7931E/anweshadas1302-coder" width="85%" />
 </p>
 
 ---
