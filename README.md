@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anweshadas1302-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Code.+Learn.+Repeat.;Flutter+%26+Dart+Developer;Building+things+that+actually+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Code.+Learn.+Repeat.;System+from+scratch;Building+things+that+actually+work" alt="Typing SVG" />
   </a>
 </p>
 
