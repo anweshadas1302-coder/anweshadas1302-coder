@@ -72,9 +72,9 @@
 
 ```dart
 class Anwesha {
-  final role     = 'CS Student & Flutter Developer';
-  final loves    = ['Flutter', 'Clean UI', 'Solving tricky problems'];
-  final learning = ['Node.js', 'REST APIs', 'DSA'];
+  final role     = 'CS Student, Full Stack & Flutter Developer';
+  final loves    = ['Clean UI', 'Solving tricky problems', 'Building things'];
+  final learning = ['Something new every day'];
   final funFact  = 'I built my own expression parser & interpreter 🤯';
 
   String motto() => 'Code. Learn. Repeat.';
@@ -83,14 +83,13 @@ class Anwesha {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Internships-F7931E?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Ask%20me%20about-Flutter%20%26%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Currently%20learning-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Mindset-Always%20Learning-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Powered%20by-Curiosity-009688?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anweshadas1302-coder&theme=tokyonight&hide_border=true&ring=F7931E&fire=F7931E&currStreakLabel=F7931E" />
+  <img src="https://raw.githubusercontent.com/anweshadas1302-coder/anweshadas1302-coder/output/github-snake-dark.svg" alt="snake animation" />
 </p>
-
 ---
 
 <p align="center"><i>"Code. Learn. Repeat."</i> 🐧</p>
