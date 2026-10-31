@@ -8,7 +8,6 @@
 
 <p align="center">
   Student developer who enjoys building apps, breaking things, and figuring out why they broke.<br/>
-  Currently building <b>blockcode</b> — a block-based visual programming playground in Flutter.
 </p>
 
 <p align="center">
@@ -43,7 +42,6 @@
 
 **🗄️ Databases** *(edit to match what you actually use)*<br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 **🧰 Tools**<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
