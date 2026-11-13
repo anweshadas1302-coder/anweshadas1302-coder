@@ -20,7 +20,7 @@
 
 ### 🔭 What I'm up to
 
-- 🚀 Building **blockcode**: custom expression parser, AST interpreter, live block highlighting, turtle graphics, Python code generation
+- 🤖 Diving into **LLM engineering**: prompt design, building AI-powered apps, and understanding how language models work
 - 📱 Practicing Flutter by shipping small, complete apps
 - 🌐 Learning backend development with Node.js and REST APIs
 - 🎯 Looking for internships and opportunities in **Flutter / mobile / full-stack development**
